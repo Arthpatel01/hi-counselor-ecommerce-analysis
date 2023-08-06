@@ -1,0 +1,1 @@
+SELECT * FROM ecommerce WHERE primaryCategories="Electronics" AND brand="Flipkart"

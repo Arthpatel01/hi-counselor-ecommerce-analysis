@@ -1,0 +1,1 @@
+SELECT primaryCategories, COUNT(CASE WHEN sentiment="positive" THEN 1 END) AS positive_count, COUNT(CASE WHEN sentiment="negative" THEN 1 END) AS negative_count FROM ecommerce GROUP BY primaryCategories

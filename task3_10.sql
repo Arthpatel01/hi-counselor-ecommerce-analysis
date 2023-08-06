@@ -1,0 +1,1 @@
+SELECT primaryCategories, COUNT(*) AS product_count FROM ecommerce GROUP BY primaryCategories

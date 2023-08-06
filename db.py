@@ -1,0 +1,4 @@
+HOST = 'localhost'
+USERNAME = 'b61243c3'
+PASSWORD = 'Cab#22se'
+DATABASE = 'b61243c3'

@@ -1,0 +1,1 @@
+SELECT DISTINCT brand FROM ecommerce

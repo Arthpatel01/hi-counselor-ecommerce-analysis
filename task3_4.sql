@@ -1,0 +1,1 @@
+SELECT * FROM ecommerce WHERE reviews_text LIKE "%good%"
